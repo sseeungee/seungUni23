@@ -1,0 +1,51 @@
+#wrapper {
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+.header {
+  height: 80px;
+  background-color: lightyellow;
+}
+
+.img-size {
+  width: 150px;
+  height: 80px;
+}
+
+.input-title {
+  width: 750px;
+  height: 35px;
+  outline-color: black;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 20pt;
+}
+
+.radio-btn {
+  margin-right: 10px;
+}
+
+.btn-margin {
+  margin-left: 20px;
+}
+
+
+
+.content-box {
+  width: 100%;
+  height: 450px;
+  border-radius: 3%;
+  margin-top: 20px;
+  padding-left: 15px;
+  padding-top: 15px;
+  outline-color: lightgray;
+  font: italic bold;
+  font-size: 12pt;
+}
+
+
+.btn-right {
+  float: right;
+}
